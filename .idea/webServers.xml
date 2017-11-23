@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7ae974eb-bf86-47f7-9d40-5c743b17b3cc" name="shell" url="http://users.metropolia.fi/~henrijke">
+        <fileTransfer host="shell.metropolia.fi" port="22" rootFolder="/home2-3/h/henrijke" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

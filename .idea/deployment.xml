@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="shell" filePermissions="493" folderPermissions="493">
+    <serverData>
+      <paths name="shell">
+        <serverdata>
+          <mappings>
+            <mapping deploy="public_html/php" local="$PROJECT_DIR$" web="/php" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>kakkah hahahaha</title>
+</head>
+
+<style>
+    body{
+        font-family: Arial, sans-serif;
+        background-color: rgb(255,230,230);
+
+    }
+    ul{
+        text-align: center;
+    }
+    li{
+        list-style: none;
+        padding: 15px;
+    }
+    a{
+        font-size: 120%;
+        padding: 15px;
+        text-decoration:none;
+        color: rgb(100,0,0);
+    }
+    a:hover{
+        color: rgb(255,100,100);
+        background-color: rgb(70,50,190);
+    }
+    h3{
+        text-align: center;
+        font-size: 120%;
+    }
+
+
+
+</style>
+<body>
+<h3>Hyödyllisiä_opiskelu_linkkejä</h3>
+<ul>
+
+</ul>
+<script>
+    "use strict";
+    const lista= {
+       osoite: [
+         "http://rubentd.com/blog/creating-a-multiplayer-game-with-node-js/",
+         "https://www.sitepoint.com/beginners-guide-node-package-manager/",
+         "https://stormpath.com/blog/everything-you-ever-wanted-to-know-about-node-dot-js-sessions",
+         "https://github.com/sindresorhus/awesome",
+         "https://github.com/workshopper/learnyounode",
+         "https://nodeschool.io/fi/#workshopper-list",
+         "https://www.regular-expressions.info/tutorial.html",
+         "https://www.photoshopessentials.com/photo-editing/sharpen-high-pass/",
+         "http://www.the-art-of-web.com/html/html5-form-validation/",
+         "https://www.ohjelmointiputka.net/oppaat/opas.php?tunnus=mysqlphp02",
+         "https://www.w3schools.com/nodejs/nodejs_get_started.asp",
+         "https://www.youtube.com/watch?v=hMxGhHNOkCU&t=2s",
+         "ttps://www.youtube.com/watch?v=PfSwUOBL1YQ&t=97s",
+         "https://www.youtube.com/watch?v=CxmEzRTKduE",
+           "https://www.youtube.com/watch?v=RV3SaSH8lw0&t=452s",
+           "https://www.youtube.com/watch?v=pU9Q6oiQNd0&t=9s"
+       ],
+      nimi :[
+         "Tankkipeli",
+        "npm guide",
+        "node sessions",
+          "awesome list",
+          "node.js tuto",
+          "nope opettelusivu",
+          "regular expressions",
+          "photoshop img sharpen",
+          "form validation",
+          "ohjelmointiputka",
+          "w3 node tut",
+          "jquery videot",
+          "multiplayer html video",
+          "multiplayer javascript video",
+          "node canvas",
+          "node.js 101"
+      ]
+    };
+
+
+    const ul = document.querySelector("ul");
+    /*for(let list of lista){
+       ul.innerHTML +=`<li> <a href="${list.osoite}"> ${list.nimi} </a></li>`;
+
+    }
+*/
+    for(let i=0;i<lista.osoite.length; i++){
+      console.log(i + " kdaskdakskad " + lista.osoite.length);
+      ul.innerHTML +=`<li> <a href="${lista.osoite[i]}"> ${lista.nimi[i]} </a></li>`;
+
+    }
+
+
+
+</script>
+</body>
+</html>
