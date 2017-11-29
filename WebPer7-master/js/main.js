@@ -7,8 +7,12 @@ let chunksSent = 0;
 const form = document.querySelector('form');
 const input = document.querySelector('#fileUp');
 const pResult = document.querySelector('#result');
+const img = document.createElement("img");
 // TODO: valitse img-elementti
-// TODO: valitse #progress elementti
+// DONE valitse #progress elementti
+
+const progress = document.querySelector("#progress");
+const kuva = document.querySelector("#kuva");
 
 const upload = (chunk, part, count, name) => {
   // tehdään FormData-olio ja lisätään tiedostopalanen ja sille nimi
@@ -29,10 +33,15 @@ const upload = (chunk, part, count, name) => {
   fetch('upload.php', settings).then((response) => {
     return response.json();
   }).then( (json) => {
-    // TODO: näytä latauksen edistyminen #progress elementissä
+    // DONE: näytä latauksen edistyminen #progress elementissä
+    const atm = (json.part/count )*100;
+    console.log(atm);
+    progress.innerHTML=atm.toFixed(1)+ "%";
+
     // päivittää tiedon montako palasta lähetetty
     chunksSent ++;
     console.log(json);
+    console.log(json.part);
     // console.log(chunksSent);
     // kun viimeinen palanen on lähetetty
     if (chunksSent === count){
@@ -53,6 +62,10 @@ const merge = (count, name) => {
     pResult.innerHTML = json.result + ' valmis';
     // TODO: poista etenemispalkki näkyvistä
     // TODO: lisää tallennetun kuvan osoite img:n src attribuuttiin
+    progress.innerHTML="";
+    // aa se ei laita niitä img tai uploads kansioon vaikka niin luulin lol
+    //kuva.src="/" + json.result;
+    //bar.appendChild(img);
   });
 };
 

@@ -1,0 +1,102 @@
+<% include partials/header %>
+<h1>Aapeli sadasdasd</h1>
+
+<div class="container">
+  <div class="row">
+    <div style="background-color: #EAEAEA" class="col-md-6">
+      <div class="row">
+        <div style=" height: 100px; padding: 5px;" class="col-md-4"><p style="background-color: #FF0000; margin:5px; height: 100%;">Kuva</p></div>
+        <div style=" height: 100px; padding: 5px;" class="col-md-4"><p style="background-color: #FF0000; margin:5px; height: 100%;">Kuva</p></div>
+        <div style=" height: 100px; padding: 5px;" class="col-md-4"><p style="background-color: #FF0000; margin:5px; height: 100%;">Kuva</p></div>
+      </div>
+      <div class="row">
+        <p style="padding: 10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pretium est sed libero pharetra, vitae malesuada purus pretium. Fusce dignissim tellus vel ornare hendrerit. Ut massa felis, porta non condimentum eget, sagittis sed augue. Maecenas viverra neque id tortor lacinia iaculis. Duis eleifend neque nec ipsum bibendum suscipit. Ut ullamcorper orci et sollicitudin efficitur. Pellentesque turpis sapien, maximus id dignissim et, rhoncus at dui. In bibendum efficitur ante. Nam eget risus tempus, molestie turpis ac, dictum augue. Maecenas purus mauris, gravida ut nunc sed, suscipit semper felis. Nunc euismod interdum tellus, posuere sodales sapien cursus sit amet.</p>
+      </div>
+      <div class="row">
+        <div style="text-align: center;" class="col-md-12">
+          <button style="margin:20px;" class="btn btn-large btn-success">PELAA!</button>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6" style="background-color: #AEAEAE">
+      <div class="row">
+        <div class="col-md-12"><h1>PELIVALIKKO</h1></div>
+        <div class="col-md-4"><p style="width: 100%; height:100px; background-color: #00FF00;">PELI</p></div>
+        <div class="col-md-4"><p style="width: 100%; height:100px; background-color: #00FF00;">PELI</p></div>
+        <div class="col-md-4"><p style="width: 100%; height:100px; background-color: #00FF00;">PELI</p></div>
+        <div class="col-md-4"><p style="width: 100%; height:100px; background-color: #00FF00;">PELI</p></div>
+        <div class="col-md-4"><p style="width: 100%; height:100px; background-color: #00FF00;">PELI</p></div>
+        <div class="col-md-4"><p style="width: 100%; height:100px; background-color: #00FF00;">PELI</p></div>
+        <div class="col-md-4"><p style="width: 100%; height:100px; background-color: #00FF00;">PELI</p></div>
+        <div class="col-md-4"><p style="width: 100%; height:100px; background-color: #00FF00;">PELI</p></div>
+        <div class="col-md-4"><p style="width: 100%; height:100px; background-color: #00FF00;">PELI</p></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--MODAL-->
+<div id="loginModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <!--MODALIN SISÄLTÖ-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">Kirjaudu sisään</h4>
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <form method="post" action="/login">
+          <div class="form-group">
+            <label>Käyttäjänimi</label>
+            <input type="text" class="form-control" placeholder="Käyttäjänimi" name="username" title="username"/>
+          </div>
+          <div class="form-group">
+            <label>Salasana</label>
+            <input type="password" class="form-control" name="password" placeholder="Salasana" title="password"/>
+          </div>
+          <button class="btn btn-primary" type="submit" name="submit" value="button" title="button">Kirjaudu</button>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <a id="eiVielaTilia" href="#">Ei vielä tiliä? <strong>Rekisteröidy!</strong></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--MODAL-->
+<div id="registerModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <!--MODALIN SISÄLTÖ-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">Rekisteröidy</h4>
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <form method="post" action="/register">
+          <div class="form-group">
+            <label>Käyttäjänimi</label>
+            <input type="text" class="form-control" placeholder="Käyttäjänimi" name="username" title="username"/>
+          </div>
+          <div class="form-group">
+            <label>Sähköpostiosoite</label>
+            <input type="text" class="form-control" name="email" placeholder="Sähköposti" title="email"/>
+          </div>
+          <div class="form-group">
+            <label>Salasana</label>
+            <input type="password" class="form-control" name="password" placeholder="Salasana" title="password"/>
+          </div>
+          <button class="btn btn-primary" type="submit" name="submit" value="button" title="button">Rekisteröidy</button>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <a id="onJoTili" href="#">Onko sinulla jo tili? <strong>Kirjaudu sisään!</strong></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<% include partials/footer %>
+
+

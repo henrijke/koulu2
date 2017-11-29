@@ -63,7 +63,15 @@ svg,
 video {
     vertical-align: middle;
 }
+/*
+#progress2{
+    height:50px;
+    width: 300px;
+    background:green;
+    transition: width;
 
+
+}*/
 /*
  * Remove default fieldset styles.
  */

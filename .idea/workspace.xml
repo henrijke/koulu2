@@ -12,118 +12,43 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file leaf-file-name="exampl.js" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/canvas_zoom/js/exampl.js">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="435">
-                    <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/canvas_zoom/js/main.js">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="405">
-                    <caret line="27" column="2" lean-forward="false" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="opettajan_malli.js" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/canvas_zoom/js/opettajan_malli.js">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="405">
-                    <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/WebPerAnim-master/js/main.js">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="195">
-                    <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="main2.js" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/canvas_zoom/js/main2.js">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="133">
-                    <caret line="52" column="3" lean-forward="true" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="teht-b.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebPerAnim-master/teht-b.html">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projekti_29_11/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="37" lean-forward="false" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="yhyy.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/canvas_zoom/js/yhyy.js">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projekti_29_11/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="133" column="13" lean-forward="true" selection-start-line="133" selection-start-column="13" selection-end-line="133" selection-end-column="13" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/canvas_zoom/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="45" lean-forward="false" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
-              <folding>
-                <marker date="1511426788000" expanded="true" signature="602:773" ph="..." />
-                <marker date="1511426788000" expanded="true" signature="696:728" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node/oma/backend/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            <state relative-caret-position="330">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main-b.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebPerAnim-master/css/main-b.css">
+      <file leaf-file-name="task_a.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebPer7-master/task_a.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="69" column="13" lean-forward="true" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebPer7-master/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="66" column="33" lean-forward="true" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -149,6 +74,7 @@
       <find>save</find>
       <find>pt</find>
       <find>dragstart</find>
+      <find>full_name</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -157,14 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ulkoasumuutokset/js/main-a.js" />
-        <option value="$PROJECT_DIR$/palvelin_tallennus/.htaccess" />
-        <option value="$PROJECT_DIR$/WebPerAnim-master/teht-a.html" />
-        <option value="$PROJECT_DIR$/palvelin_tallennus/upload.php" />
-        <option value="$PROJECT_DIR$/palvelin_tallennus/task_a.html" />
-        <option value="$PROJECT_DIR$/palvelin_tallennus/js/main_b.js" />
-        <option value="/Volumes/henrijke/public_html/php/palvelin_tallennus/js/main_b.js" />
-        <option value="$PROJECT_DIR$/php_teht4/functions/functions.php" />
         <option value="$PROJECT_DIR$/php_teht4/jsonKuvat.php" />
         <option value="$PROJECT_DIR$/php_teht4/js/main-f.js" />
         <option value="$PROJECT_DIR$/php_teht4/index.php" />
@@ -197,17 +115,25 @@
         <option value="$PROJECT_DIR$/node/oma/backend/index2.html" />
         <option value="$PROJECT_DIR$/node/oma/backend/hakulauseet.js" />
         <option value="$PROJECT_DIR$/node/oma/backend/index.js" />
-        <option value="$PROJECT_DIR$/node/oma/backend/node.js" />
         <option value="$PROJECT_DIR$/node/oma/backend/index.html" />
-        <option value="$PROJECT_DIR$/projekti/app.js" />
         <option value="$PROJECT_DIR$/canvas_zoom/js/exampl.js" />
         <option value="$PROJECT_DIR$/WebPerAnim-master/css/main-a.css" />
         <option value="$PROJECT_DIR$/canvas_zoom/index.html" />
-        <option value="$PROJECT_DIR$/WebPerAnim-master/teht-b.html" />
         <option value="$PROJECT_DIR$/WebPerAnim-master/js/main.js" />
-        <option value="$PROJECT_DIR$/WebPerAnim-master/css/main-b.css" />
         <option value="$PROJECT_DIR$/canvas_zoom/js/main2.js" />
+        <option value="$PROJECT_DIR$/WebPerAnim-master/css/main-b.css" />
+        <option value="$PROJECT_DIR$/WebPerAnim-master/teht-b.html" />
         <option value="$PROJECT_DIR$/canvas_zoom/js/yhyy.js" />
+        <option value="$PROJECT_DIR$/WebPer7-master/css/main.css" />
+        <option value="$PROJECT_DIR$/projekti/app.js" />
+        <option value="$PROJECT_DIR$/node/oma/backend/node.js" />
+        <option value="$PROJECT_DIR$/uusi_testi/nodejs-mysql-login/views/index.ejs" />
+        <option value="$PROJECT_DIR$/uusi_testi/nodejs-mysql-login/lib/dbconn.js" />
+        <option value="$PROJECT_DIR$/uusi_testi/nodejs-mysql-login/views/register.ejs" />
+        <option value="$PROJECT_DIR$/uusi_testi/nodejs-mysql-login/views/profile.ejs" />
+        <option value="$PROJECT_DIR$/uusi_testi/nodejs-mysql-login/app.js" />
+        <option value="$PROJECT_DIR$/WebPer7-master/js/main.js" />
+        <option value="$PROJECT_DIR$/WebPer7-master/task_a.html" />
       </list>
     </option>
   </component>
@@ -227,12 +153,13 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node/node_modules" />
     <handled-path value="$PROJECT_DIR$/projekti/node_modules" />
+    <handled-path value="$PROJECT_DIR$/uusi_testi/nodejs-mysql-login/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="878" />
-    <option name="y" value="100" />
-    <option name="width" value="1033" />
+    <option name="x" value="1170" />
+    <option name="y" value="249" />
+    <option name="width" value="1285" />
     <option name="height" value="1340" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -261,24 +188,30 @@
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="canvas_zoom" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="projekti_29_11" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="canvas_zoom" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="WebPer7-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="WebPer7-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="WebPer7-master" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="WebPerAnim-master" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="WebPerAnim-master" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="WebPer7-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="uploads" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -300,19 +233,19 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/php_teht5" />
-      <recent name="$PROJECT_DIR$/php_teht4" />
-      <recent name="$PROJECT_DIR$/php_teht4/functions" />
-      <recent name="$PROJECT_DIR$/php_teht4/config" />
-      <recent name="$PROJECT_DIR$/php_teht3/functions" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/node/oma/backend" />
       <recent name="$PROJECT_DIR$/node/oma/backend/public" />
       <recent name="$PROJECT_DIR$/node/oma/backend/test" />
       <recent name="$PROJECT_DIR$/node/oma" />
       <recent name="$PROJECT_DIR$/node/passport/public/js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projekti/secrets" />
+      <recent name="$PROJECT_DIR$/php_teht5" />
+      <recent name="$PROJECT_DIR$/php_teht4" />
+      <recent name="$PROJECT_DIR$/php_teht4/functions" />
+      <recent name="$PROJECT_DIR$/php_teht4/config" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -327,27 +260,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.teht-b.html">
-    <configuration name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://users.metropolia.fi/~henrijke/php/ajax_teht/WebPer3-master/index.html" />
+  <component name="RunManager" selected="JavaScript Debug.task_a.html">
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://users.metropolia.fi/~henrijke/php/WebPer7-master/index.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://users.metropolia.fi/~henrijke/php/canvas_zoom/index.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://users.metropolia.fi/~henrijke/php/node/oma/backend/index.html" />
+    <configuration name="task_a.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://users.metropolia.fi/~henrijke/php/WebPer7-master/task_a.html" />
     <configuration name="teht-a.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://users.metropolia.fi/~henrijke/php/WebPerAnim-master/teht-a.html" />
-    <configuration name="teht-a.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://users.metropolia.fi/~henrijke/php/ulkoasumuutokset/teht-a.html" />
     <configuration name="teht-b.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://users.metropolia.fi/~henrijke/php/WebPerAnim-master/teht-b.html" />
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.teht-a.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.teht-a.html (1)" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.teht-b.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.teht-a.html (1)" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.teht-b.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.task_a.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.teht-b.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.teht-a.html (1)" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.teht-a.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.task_a.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.teht-b.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.teht-a.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -388,34 +321,38 @@
       <workItem from="1511162404671" duration="22407000" />
       <workItem from="1511250591954" duration="6911000" />
       <workItem from="1511336237042" duration="5218000" />
-      <workItem from="1511421551758" duration="20204000" />
+      <workItem from="1511421551758" duration="20567000" />
+      <workItem from="1511510557843" duration="6659000" />
+      <workItem from="1511770750716" duration="2726000" />
+      <workItem from="1511773491182" duration="10847000" />
+      <workItem from="1511946332335" duration="960000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167447000" />
+    <option name="totallyTimeSpent" value="189002000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="878" y="100" width="1033" height="1340" extended-state="0" />
+    <frame x="1170" y="249" width="1285" height="1340" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30687317" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24669261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25867507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25867507" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.110135674" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.110135674" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -441,7 +378,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/canvas_zoom/js/yhyy.js</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
@@ -450,121 +386,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/palvelin_tallennus/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/php_teht3/functions/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-62">
-          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php_teht4/js/vendor/jquery-1.11.2.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="1" column="1289" lean-forward="true" selection-start-line="1" selection-start-column="1289" selection-end-line="1" selection-end-column="1289" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php_teht4/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php_teht4/jsonKuvat.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php_teht4/functions/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php_teht4/log/DBErrors.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php_teht4/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php_teht3/testing.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="49" column="13" lean-forward="false" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-          <folding>
-            <marker date="1509958638000" expanded="true" signature="204:236" ph="SELECT COUNT... vk_tuotteet" />
-            <marker date="1509958638000" expanded="true" signature="455:480" ph="SELECT * FRO... vk_tuotteet" />
-            <marker date="1509958638000" expanded="true" signature="914:1013" ph="SELECT vk_tu... vk_tuotteet" />
-            <marker date="1509958638000" expanded="true" signature="1411:1496" ph="SELECT * FRO... vk_tuotteet" />
-            <marker date="1509958638000" expanded="true" signature="1968:2041" ph="SELECT * FRO... vk_tuotteet" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php_teht4/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pelidemo/KPS.php" />
-    <entry file="file://$PROJECT_DIR$/pelidemo/Game.php" />
-    <entry file="file://$PROJECT_DIR$/php_teht5/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/passport/views/index.handlebars">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/passport/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/passport/models/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/passport/views/register.handlebars">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/passport/views/login.handlebars">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node/passport/views/layouts/layout.handlebars">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
@@ -590,13 +411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/nodeConnect.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -677,14 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -708,15 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/oma/backend/node.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="45" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="15" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -724,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -732,7 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -740,15 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projekti/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -756,7 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="2" lean-forward="false" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -764,7 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-597">
           <caret line="59" column="27" lean-forward="true" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -772,50 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/oma/backend/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/canvas_zoom/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="45" lean-forward="false" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
-          <folding>
-            <marker date="1511426788000" expanded="true" signature="602:773" ph="..." />
-            <marker date="1511426788000" expanded="true" signature="696:728" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebPerAnim-master/teht-b.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="37" lean-forward="false" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebPerAnim-master/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebPerAnim-master/css/main-b.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="69" column="13" lean-forward="true" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -823,25 +563,225 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/canvas_zoom/js/main2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="52" column="3" lean-forward="true" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
-          <folding />
+        <state relative-caret-position="493">
+          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/canvas_zoom/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="45" lean-forward="false" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/canvas_zoom/js/yhyy.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="133" column="13" lean-forward="true" selection-start-line="133" selection-start-column="13" selection-end-line="133" selection-end-column="13" />
+        <state relative-caret-position="468">
+          <caret line="125" column="15" lean-forward="true" selection-start-line="125" selection-start-column="15" selection-end-line="125" selection-end-column="15" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebPerAnim-master/teht-b.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebPerAnim-master/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="53" lean-forward="true" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebPerAnim-master/css/main-b.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="73" column="16" lean-forward="true" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebPer7-master/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebPer7-master/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebPer7-master/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="967">
+          <caret line="86" column="3" lean-forward="false" selection-start-line="86" selection-start-column="3" selection-end-line="86" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projekti/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projekti/secrets/sqlCredentials.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projekti/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/oma/backend/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/nodeConnect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uusi_testi/nodejs-mysql-login/lib/dbconn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uusi_testi/nodejs-mysql-login/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/oma/backend/node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1515">
+          <caret line="101" column="24" lean-forward="false" selection-start-line="75" selection-start-column="2" selection-end-line="101" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uusi_testi/nodejs-mysql-login/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="163" column="36" lean-forward="false" selection-start-line="163" selection-start-column="36" selection-end-line="163" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uusi_testi/nodejs-mysql-login/views/profile.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uusi_testi/nodejs-mysql-login/views/register.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uusi_testi/nodejs-mysql-login/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projekti_29_11/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebPer7-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projekti_29_11/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebPer7-master/img/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebPer7-master/uploads/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebPer7-master/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="66" column="33" lean-forward="true" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebPer7-master/task_a.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

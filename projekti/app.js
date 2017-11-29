@@ -13,4 +13,5 @@ const haku = hakureq();
 const exValidator = require('express-validator');
 
 //sessions auttamaan sessionsin kanssa
-const exSession = require('express-session');
+const exSession = require('express-session')
+

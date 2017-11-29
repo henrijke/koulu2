@@ -109,7 +109,7 @@ reader.addEventListener('load', (evt) => {
   //eventlistener ylösalas sliderille
   slidVer.addEventListener('input', (evt) => {
     console.log(slidVer.value);
-    lastX = evt.offsetX || (evt.pageX - canvas.offsetLeft);
+    /*lastX = evt.offsetX || (evt.pageX - canvas.offsetLeft);
     lastY = evt.offsetY || (evt.pageY - canvas.offsetTop);
     const kantama = slidVer.value/50;
     //otetaan nykyinen piste
@@ -117,13 +117,19 @@ reader.addEventListener('load', (evt) => {
     //määritellään asema mutta lisätään siihen sliderin arvo
     ctx.translate(pt.x,pt.y * kantama);
     console.log(ctx.transformedPoint(lastX,lastY));
-    redraw();
+    redraw();*/
+    const ver = slidVer.value;
+    const p1 = ctx.transformedPoint(0,0);
+    const p2 = ctx.transformedPoint(canvas.width,canvas.height);
+    ctx.clearRect(p1.x,p1.y,p2.x-p1.x,p2.y-p1.y);
+    ctx.drawImage(addedImg,ver,0);
+    ctx.save();
   });
 
   //eventlistener vasenoikee sliderille
   slidHor.addEventListener('input', (evt) => {
     console.log(slidHor.value);
-    lastX = evt.offsetX || (evt.pageX - canvas.offsetLeft);
+    /*lastX = evt.offsetX || (evt.pageX - canvas.offsetLeft);
     lastY = evt.offsetY || (evt.pageY - canvas.offsetTop);
     const kantama = slidHor.value/50;
     //otetaan nykyinen piste
@@ -131,7 +137,15 @@ reader.addEventListener('load', (evt) => {
     //määritellään asema mutta lisätään siihen sliderin arvo
     ctx.translate(kantama,1);
     console.log(ctx.transformedPoint(lastX,lastY));
-    redraw();
+    redraw();*/
+    const hor = slidHor.value;
+    const p1 = ctx.transformedPoint(0,0);
+    const p2 = ctx.transformedPoint(canvas.width,canvas.height);
+    ctx.clearRect(p1.x,p1.y,p2.x-p1.x,p2.y-p1.y);
+    ctx.drawImage(addedImg,0,hor);
+    ctx.save();
+
+
   });
 
 

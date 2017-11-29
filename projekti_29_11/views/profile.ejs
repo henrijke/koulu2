@@ -1,0 +1,8 @@
+<% include partials/header %>
+<h1>Profiili</h1>
+<p>kirjautuminen on onnistunut jeejee</p>
+<%= JSON.stringify(session) %>
+<%if(currentUser==null){%>
+<p> moi</p>
+    <%}%>
+<% include partials/footer %>
